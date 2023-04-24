@@ -1,0 +1,18 @@
+[33m5b36163[m[33m ([m[1;36mHEAD -> [m[1;32mclean-code-s1e1[m[33m)[m refactor(basic-2.1, 2.5) update ling formatting, line wrapping
+[33m8d06715[m refactor(basic-2.4) update type attribute remove
+[33mfa0f6f9[m refactor(basic-2.3) update mnemonic symbols
+[33me92a8ae[m fix(basic-2.2) add document type
+[33mf49b4b9[m refactor(basic-2.1) update formatting
+[33m6a28511[m refactor(basic-1.3) update quotes change
+[33m63e9ab7[m refactor(basic-1.2) update remove uppercase names html and css
+[33md819a94[m refactor(basic-1.1) update indentation with spaces
+[33m395e627[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m Update screenshot in Read.me
+[33mda70ba7[m fix: Add lost class for input-element
+[33m617bd00[m refactor: Remove redundant css-rules
+[33m4f5fffa[m fix: Styles for new task and remove text for Delete-button
+[33m91cdced[m Merge branch 'master' of github.com:ViktoryiaYatskova/clean-code-s1e1
+[33ma38cd58[m fix: Fix task row layout
+[33m98ef54f[m Merge pull request #1 from chlkvnck/patch-1
+[33m1889535[m fix: markdown markup
+[33m7425cec[m New README
+[33m6cbfd15[m Add project files
